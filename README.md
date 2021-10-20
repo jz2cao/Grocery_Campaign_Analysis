@@ -12,4 +12,4 @@ Predict whether a grocery store customers will respond to the campaign from a se
 https://www.kaggle.com/jackdaoud/marketing-data
 
 ## Data dictionary
-please check the file "Data_Dictionary"
+![Alt text](/Data_Dictionary.png)
