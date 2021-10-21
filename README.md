@@ -5,7 +5,7 @@ Predict whether a grocery store customers will respond to the campaign from a se
 
 ## Project flow
 - Data analysis and visulization to get some understanding on the data (pleae check the file "Data_Analysis_Visualization")
-- model development and evaluation (please thcek the file "modelling")
+- model development and evaluation (please thcek the file "Modelling")
 
 
 ## Kaggle competetion
